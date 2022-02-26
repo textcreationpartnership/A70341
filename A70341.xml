@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Popes advice to the French King intreating him to contract a speedy peace with the Emperour of Germany : being a true account from a person of quality at Paris to his correspondent at London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70341</idno>
+            <idno type="STC">Wing I198</idno>
+            <idno type="STC">ESTC R1479</idno>
+            <idno type="EEBO-CITATION">09344160</idno>
+            <idno type="OCLC">ocm 09344160</idno>
+            <idno type="VID">42787</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70341)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42787)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 819:30 or 1310:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Popes advice to the French King intreating him to contract a speedy peace with the Emperour of Germany : being a true account from a person of quality at Paris to his correspondent at London.</title>
+                  <author>Innocent XI, Pope, 1611-1689.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>This item can be found at reels 819:30 and 1310:12.</note>
+                  <note>Wing number P2926A cancelled in Wing (2nd ed.).</note>
+                  <note>Reproduction of originals in the British Library and Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grand Alliance, War of the, 1689-1697.</term>
+               <term>Church and state --  France.</term>
+               <term>Church and state --  Catholic Church.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:42787:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 56 -->
+            <head>THE POPES ADVICE TO THE French KING;</head>
+            <head type="sub">Intreating Him to Contract a Speedy Peace with the Emperour of <hi>Germany.</hi> Being a True Account from a Perſon of Quality at <hi>Paris,</hi> to his Correſpondent at <hi>LONDON.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Most Chriſtian Majeſty,</salute>
+            </opener>
+            <p>NOtwithſtanding you were pleaſed in Your Manifeſto to tell Us, that You could eaſily diſtinguiſh betwixt an Ambitious, Irregular, Se<g ref="char:EOLhyphen"/>cular Prince, and Head of the Church; and that You did Com<g ref="char:EOLhyphen"/>bate Us under the Firſt, not Second Notion: That now You would be pleaſed after more ſerious Conſiderations, and the Sacred Truce of a Laſting Peace betwixt Bleſſed <hi>Peter</hi> and Your Majeſty, to bury all ſuch Diſtinctions for the Future in the Channel of Obedience and Charity, as well becometh the Eldeſt Son of our Church; and that with Us, Your Majeſty would be pleaſed to caſt an Eye upon the Calamitous Condition of the <hi>Catholick Church,</hi> which if ſome Soveraign Antidote be not ſpeedily applyed, will undoubtedly ſink into the irreparable Ruins of <hi>Heretical</hi> Contempt and Deſolation: For the avoiding of which we think it the beſt Expedient that there be forthwith a Right Under<g ref="char:EOLhyphen"/>ſtanding betwixt His Imperial and Your Moſt Chriſtian Majeſty, that all Paſſions and prejudicial Intereſts being caſt aſide, there may betwixt both Your Majeſties ſuch an interchangeable Amity as is Built upon the immoveable Baſis of a Firm Peace. In order to which, We and Our moſt Reverend Conclave ſhall uſe ſuch Mediums as ſhall be proper for the Effecting ſo Good and Chriſtian a Deſign; We thought good to ſignifie unto Your Moſt Chriſtian Majeſty by Our <hi>Nuncio</hi> that we have given particular Order to Our preſent Legate at the Imperial Court, to move theſe things to His Imperial Majeſty, and to urge them with ſuch Arguments as We truſt may prove Effectual, for Concluding a Laſting Peace betwixt You.</p>
+            <p>
+               <pb n="2" facs="tcp:42787:2"/>
+               <!-- PDF PAGE 57 -->
+We have lately deſired His Imperial Majeſty to Conſider the Deplorable and Totering Condition of the Catholick Church, the vaſt growth of Hereſie, and its intolerable impudency; and ſeriouſly to conſider the Cauſes and Occaſions of it: Which if well weighed will be found to be no other than the Effect of our in<g ref="char:EOLhyphen"/>teſtine Broyls and Diviſions; which will be very obvious if we ſhall but conſider the time when theſe Hereſies began firſt to be ſet abroach; was it not that Mon<g ref="char:EOLhyphen"/>ſtrous <hi>Luther</hi> from whom as from a ſecond <hi>Hydra,</hi> all theſe numerous and various Hereſies we now ſee did ſpring? Was it not the time when the <hi>Venetians</hi> were of great power; and therefore envied of many, and feared as his Imperial Majeſty is now? Did not theſe Hereſies we now ſee owe their Birth and Growth to thoſe unhappy Jars: Which were the Effect of that League made againſt the <hi>Venetians</hi> in that year 1505. by <hi>Maximilian</hi> the Emperour; <hi>Lewes</hi> the 12th King of <hi>France,</hi> and Pope <hi>Julius</hi> the 2d? Yes, Yes! Let Us therefore at length learn to be wiſe, and remember that Fable concerning the Bundle of Reeds, which being ſeparate, might eaſily be broke, but being knit together were impregnable: We therefore obteſt you by the Bleſſed <hi>Virgin,</hi> yea, by bleſſed <hi>Peter</hi> and his Succeſſors, that your moſt Chriſtian Majeſty would be pleaſed to ſuffer that excellent Reprehenſi<g ref="char:EOLhyphen"/>on that bleſſed <hi>Paul</hi> gives to his <hi>Corinthians, Not to ſtrive one with another, and that before unbeleivers; but rather to take wrong and ſuffer your ſelves to be defrauded;</hi> For beleive in theſe Warr-like preparations, if not prevented will end in nothing but deſolation, and cut the Vitals of the Catholick Faith: Yea fill the very mouths of Hereticks with Arguments; and their Arms with Power: may there<g ref="char:EOLhyphen"/>fore the ſober Conſiderations of what's here preſented prevail with both your Ma<g ref="char:EOLhyphen"/>jeſties to Contract a Speedy and Laſting Peace, and then let us all jointly, as with one Shoulder, imploy all our Power againſt the Northern Hereticks; Which although its probable we may not utterly Extirpate, yet at leaſt, we may place ſome Bounderies to their Shoarleſs Impudence.</p>
+            <closer>
+               <dateline>From <hi>Paris</hi> Dated <date>the 28th of <hi>December,</hi> 1688.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:42787:2"/>
+            <!-- PDF PAGE 57 -->
+         </div>
+      </body>
+   </text>
+</TEI>
